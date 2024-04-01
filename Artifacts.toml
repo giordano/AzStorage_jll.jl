@@ -1,0 +1,9 @@
+[[AzStorage]]
+arch = "x86_64"
+git-tree-sha1 = "0e6e37b577d0837865e0611223bdb48a0f4ef035"
+libc = "glibc"
+os = "linux"
+
+    [[AzStorage.download]]
+    sha256 = "259893070daec36157fa30ad54c5179ff1a4f503cc532922b121b008dcc038d5"
+    url = "https://github.com/giordano/AzStorage_jll.jl/releases/download/AzStorage-v0.9.0+2/AzStorage.v0.9.0.x86_64-linux-gnu.tar.gz"
